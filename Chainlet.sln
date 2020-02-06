@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chainlet", "Chainlet\Chainlet.csproj", "{2EECBCFB-5AE1-463E-A999-8B599545292C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chainlet.Tests", "Chainlet.Tests\Chainlet.Tests.csproj", "{C0CDC97B-35BF-4D67-ABEA-6E50A56EBD3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EECBCFB-5AE1-463E-A999-8B599545292C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EECBCFB-5AE1-463E-A999-8B599545292C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EECBCFB-5AE1-463E-A999-8B599545292C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EECBCFB-5AE1-463E-A999-8B599545292C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0CDC97B-35BF-4D67-ABEA-6E50A56EBD3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0CDC97B-35BF-4D67-ABEA-6E50A56EBD3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0CDC97B-35BF-4D67-ABEA-6E50A56EBD3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0CDC97B-35BF-4D67-ABEA-6E50A56EBD3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9369733D-3126-440F-A422-63203DC0B035}
+	EndGlobalSection
+EndGlobal
